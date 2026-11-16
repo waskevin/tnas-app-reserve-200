@@ -1,0 +1,3090 @@
+[
+  {
+    "number": 1,
+    "name": "Activepieces",
+    "source": "https://www.activepieces.com",
+    "docker_hub": "activepieces/activepieces",
+    "tag": "0.93.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/activepieces/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 2,
+    "name": "Automatisch",
+    "source": "https://automatisch.io",
+    "docker_hub": "automatischio/automatisch",
+    "tag": "0.15.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/automatisch/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 3,
+    "name": "Dagu",
+    "source": "https://docs.dagu.cloud/",
+    "docker_hub": "balantj/dagu",
+    "tag": "v1.0.7",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/dagu/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "non-root passed with writable /opt/dagu and /root bind mounts; HTTP UI setup page captured"
+  },
+  {
+    "number": 4,
+    "name": "flowctl",
+    "source": "https://flowctl.net",
+    "docker_hub": "korayakyuz/flowctl",
+    "tag": "0.8.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/flowctl/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 5,
+    "name": "Ech0",
+    "source": "https://ech0.app/",
+    "docker_hub": "sn0wl1n/ech0",
+    "tag": "v5.9.9",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/ech0/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 6,
+    "name": "Faved",
+    "source": "https://faved.to/",
+    "docker_hub": "denho/faved",
+    "tag": "build-202610280958-demo",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/faved/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; setup page screenshot captured"
+  },
+  {
+    "number": 7,
+    "name": "LinkAce",
+    "source": "https://www.linkace.org/",
+    "docker_hub": "linkace/linkace",
+    "tag": "2.x",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/linkace/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 8,
+    "name": "Servas",
+    "source": "https://github.com/beromir/Servas",
+    "docker_hub": "beromir/servas",
+    "tag": "1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/servas/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 9,
+    "name": "Slash",
+    "source": "https://github.com/yourselfhosted/slash",
+    "docker_hub": "yourselfhosted/slash",
+    "tag": "1.0.0-rc.3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/slash/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; signup page screenshot captured"
+  },
+  {
+    "number": 10,
+    "name": "Centrifugo",
+    "source": "https://centrifugal.dev/",
+    "docker_hub": "centrifugo/centrifugo",
+    "tag": "v6.10",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/centrifugo/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 11,
+    "name": "Continuwuity",
+    "source": "https://continuwuity.org/",
+    "docker_hub": "jadedblueeyes/continuwuity",
+    "tag": "v26.11.0-alpha.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/continuwuity/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 12,
+    "name": "Screego",
+    "source": "https://screego.net",
+    "docker_hub": "l11r/screego",
+    "tag": "unstable",
+    "dual_arch": true,
+    "architectures": [
+      "386",
+      "amd64",
+      "arm",
+      "arm64",
+      "ppc64le"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/screego/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 13,
+    "name": "AnonAddy",
+    "source": "https://anonaddy.com",
+    "docker_hub": "anonaddy/anonaddy",
+    "tag": "1.7.4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/anonaddy/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 14,
+    "name": "wildduck",
+    "source": "https://wildduck.email/",
+    "docker_hub": "nodemailer/wildduck",
+    "tag": "1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/wildduck/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 15,
+    "name": "Ergo",
+    "source": "https://ergo.chat/",
+    "docker_hub": "ergoplatform/ergo",
+    "tag": "v6.0.8",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/ergo/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 16,
+    "name": "Routr",
+    "source": "https://routr.io",
+    "docker_hub": "fonoster/routr",
+    "tag": "0.3.24",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/routr/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 17,
+    "name": "Artalk",
+    "source": "https://artalk.js.org/",
+    "docker_hub": "willowgod/artalk",
+    "tag": "sha-16fe646",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/artalk/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 302; login page screenshot captured"
+  },
+  {
+    "number": 18,
+    "name": "Lemmy",
+    "source": "https://join-lemmy.org/",
+    "docker_hub": "dessalines/lemmy",
+    "tag": "0.19.21",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/lemmy/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 19,
+    "name": "PieFed",
+    "source": "https://join.piefed.social",
+    "docker_hub": "dockurr/piefed",
+    "tag": "1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/piefed/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 20,
+    "name": "plugNmeet",
+    "source": "https://www.plugnmeet.org/",
+    "docker_hub": "mynaparrot/plugnmeet-etherpad",
+    "tag": "v2.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/plugnmeet/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; Etherpad UI screenshot captured"
+  },
+  {
+    "number": 21,
+    "name": "MongooseIM",
+    "source": "https://www.erlang-solutions.com/products/mongooseim.html",
+    "docker_hub": "mongooseim/mongooseim",
+    "tag": "PR-4378",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/mongooseim/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 22,
+    "name": "Automad",
+    "source": "https://automad.org/",
+    "docker_hub": "automad/automad",
+    "tag": "v2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/automad/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 23,
+    "name": "REDAXO",
+    "source": "https://www.redaxo.org",
+    "docker_hub": "friendsofredaxo/redaxo",
+    "tag": "5",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/redaxo/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 24,
+    "name": "Vvveb CMS",
+    "source": "https://www.vvveb.com",
+    "docker_hub": "drupal/cms",
+    "tag": "byte",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/vvvebcms/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 302; Drupal CMS installation page screenshot captured"
+  },
+  {
+    "number": 25,
+    "name": "Relaticle",
+    "source": "https://relaticle.com",
+    "docker_hub": "manukminasyan/relaticle",
+    "tag": "b303d72",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/relaticle/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 26,
+    "name": "Twenty",
+    "source": "https://twenty.com",
+    "docker_hub": "twentycrm/twenty",
+    "tag": "v2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/twenty/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 27,
+    "name": "Baserow",
+    "source": "https://baserow.io/",
+    "docker_hub": "baserow/baserow",
+    "tag": "2.4.3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/baserow/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 28,
+    "name": "Bytebase",
+    "source": "https://www.bytebase.com/",
+    "docker_hub": "bytebase/bytebase",
+    "tag": "3.25.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/bytebase/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; signup page screenshot captured"
+  },
+  {
+    "number": 29,
+    "name": "Chartbrew",
+    "source": "https://chartbrew.com",
+    "docker_hub": "elestio/chartbrew",
+    "tag": "v2.10.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/chartbrew/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 30,
+    "name": "Databunker",
+    "source": "https://databunker.org/",
+    "docker_hub": "securitybunker/databunker",
+    "tag": "0.8.38",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/databunker/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; Data Bunker login page screenshot captured"
+  },
+  {
+    "number": 31,
+    "name": "Mathesar",
+    "source": "https://mathesar.org/",
+    "docker_hub": "mathesar/mathesar",
+    "tag": "0.12.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/mathesar/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 32,
+    "name": "blocky",
+    "source": "https://0xerr0r.github.io/blocky/latest/",
+    "docker_hub": "spx01/blocky",
+    "tag": "development",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/blocky/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 33,
+    "name": "Technitium DNS Server",
+    "source": "https://technitium.com/dns/",
+    "docker_hub": "technitium/dns-server",
+    "tag": "15.6.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/technitiumdnsserver/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 34,
+    "name": "Gotenberg",
+    "source": "https://gotenberg.dev",
+    "docker_hub": "gotenberg/gotenberg",
+    "tag": "9.5.1-libreoffice-aws-lambda",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/gotenberg/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 35,
+    "name": "Mayan EDMS",
+    "source": "https://www.mayan-edms.com",
+    "docker_hub": "mayanedms/mayanedms",
+    "tag": "s4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/mayanedms/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 36,
+    "name": "Papermerge",
+    "source": "https://papermerge.com",
+    "docker_hub": "linuxserver/papermerge",
+    "tag": "2.1.5",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/papermerge/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 37,
+    "name": "Papra",
+    "source": "https://papra.app",
+    "docker_hub": "corentinth/papra",
+    "tag": "26.7.1-rootless",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/papra/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 38,
+    "name": "Signature PDF",
+    "source": "https://github.com/24eme/signaturepdf",
+    "docker_hub": "leplusorg/pdf",
+    "tag": "sha-8e425de",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/signaturepdf/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 39,
+    "name": "Atsumeru",
+    "source": "https://atsumeru.xyz",
+    "docker_hub": "atsumerudev/atsumeru",
+    "tag": "1.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/atsumeru/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 40,
+    "name": "Bindery",
+    "source": "https://github.com/jarynclouatre/bindery",
+    "docker_hub": "vavallee/bindery",
+    "tag": "sha-adc0a1d",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/bindery/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 41,
+    "name": "BookLogr",
+    "source": "https://github.com/Mozzo1000/booklogr",
+    "docker_hub": "mozzo/booklogr",
+    "tag": "v1.12.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/booklogr/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 42,
+    "name": "Inkheart",
+    "source": "https://gitlab.com/Nystik/inkheart",
+    "docker_hub": "nobbe/inkheart",
+    "tag": "1.5.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/inkheart/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 43,
+    "name": "Kapowarr",
+    "source": "https://casvt.github.io/Kapowarr/",
+    "docker_hub": "mrcas/kapowarr",
+    "tag": "development",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/kapowarr/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 44,
+    "name": "Pretix",
+    "source": "https://pretix.eu/",
+    "docker_hub": "highcanfly/pretix",
+    "tag": "hcf-oci-test",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/pretix/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 45,
+    "name": "Saleor",
+    "source": "https://saleor.io",
+    "docker_hub": "mirumee/saleor",
+    "tag": "sha-3d888906bbeca453e3b3d3deded097f9f4cc4e39",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/saleor/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 46,
+    "name": "Goeland",
+    "source": "https://github.com/slurdge/goeland",
+    "docker_hub": "slurdge/goeland",
+    "tag": "v0.29.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/goeland/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 47,
+    "name": "RSS-Bridge",
+    "source": "https://github.com/RSS-Bridge/rss-bridge",
+    "docker_hub": "rssbridge/rss-bridge",
+    "tag": "sha-8329dc6",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/rssbridge/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; RSS-Bridge UI screenshot captured"
+  },
+  {
+    "number": 48,
+    "name": "OpenCloud",
+    "source": "https://docs.opencloud.eu/",
+    "docker_hub": "opencloudeu/opencloud",
+    "tag": "9.1.1-rc.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/opencloud/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 49,
+    "name": "Chibisafe",
+    "source": "https://chibisafe.app",
+    "docker_hub": "chibisafe/chibisafe",
+    "tag": "v6.7.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/chibisafe/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 50,
+    "name": "PictShare",
+    "source": "https://www.pictshare.net/",
+    "docker_hub": "hascheksolutions/pictshare",
+    "tag": "sha-05426aa",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/pictshare/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; PictShare UI screenshot captured"
+  },
+  {
+    "number": 51,
+    "name": "QuickShare",
+    "source": "https://ihexxa.github.io/quickshare.site/",
+    "docker_hub": "hexxa/quickshare",
+    "tag": "v0.11.4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/quickshare/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 52,
+    "name": "Shifter",
+    "source": "https://github.com/TobySuch/Shifter",
+    "docker_hub": "fantajim/shifter",
+    "tag": "os_1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/shifter/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 53,
+    "name": "Slink",
+    "source": "https://docs.slinkapp.io/",
+    "docker_hub": "anirdev/slink",
+    "tag": "v1.14.6",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/slink/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 302; Explore Gallery screenshot captured"
+  },
+  {
+    "number": 54,
+    "name": "snowshare",
+    "source": "https://github.com/TuroYT/snowshare",
+    "docker_hub": "turodev/snowshare",
+    "tag": "1.5",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/snowshare/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 55,
+    "name": "XBackBone",
+    "source": "https://xbackbone.app/",
+    "docker_hub": "linuxserver/xbackbone",
+    "tag": "3.8.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/xbackbone/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 56,
+    "name": "Razzia",
+    "source": "https://github.com/Ralex91/Razzia",
+    "docker_hub": "ralex91/razzia",
+    "tag": "4.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/razzia/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; Razzia UI screenshot captured"
+  },
+  {
+    "number": 57,
+    "name": "Scribble.rs",
+    "source": "https://github.com/scribble-rs/scribble.rs",
+    "docker_hub": "biosmarcel/scribble.rs",
+    "tag": "v0.9.14",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/scribblers/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; Scribble.rs UI screenshot captured"
+  },
+  {
+    "number": 58,
+    "name": "GameAP",
+    "source": "https://gameap.com/",
+    "docker_hub": "gameap/gameap",
+    "tag": "sha-8241180",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/gameap/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 59,
+    "name": "Gameyfin",
+    "source": "https://gameyfin.org",
+    "docker_hub": "grimsi/gameyfin",
+    "tag": "2-ubuntu",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/gameyfin/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 60,
+    "name": "Ownfoil",
+    "source": "https://github.com/a1ex4/ownfoil",
+    "docker_hub": "a1ex4/ownfoil",
+    "tag": "2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/ownfoil/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "number": 61,
+    "name": "Pelican Panel",
+    "source": "https://pelican.dev/",
+    "docker_hub": "mainfrezzer/pelican-panel",
+    "tag": "rc.3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "screenshot_path": "precheck-screenshots/pelicanpanel/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Flare",
+    "source": "https://github.com/FlintSH/Flare",
+    "docker_hub": "soulteary/flare",
+    "tag": "0.6.15",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 62,
+    "screenshot_path": "precheck-screenshots/flare/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Pingvin Share X",
+    "source": "https://github.com/smp46/pingvin-share-x",
+    "docker_hub": "kasmweb/share",
+    "tag": "1.17.0-rolling",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 63,
+    "screenshot_path": "precheck-screenshots/pingvinsharex/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Sunshine",
+    "source": "https://app.lizardbyte.dev/Sunshine/",
+    "docker_hub": "lizardbyte/sunshine",
+    "tag": "v2026.1116.25010-ubuntu-22.04",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 64,
+    "screenshot_path": "precheck-screenshots/sunshine/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "GoModel",
+    "source": "https://gomodel.enterpilot.io/",
+    "docker_hub": "enterpilot/gomodel",
+    "tag": "0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 65,
+    "screenshot_path": "precheck-screenshots/gomodel/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Citadel",
+    "source": "https://www.citadel.org/",
+    "docker_hub": "citadeldotorg/citadel",
+    "tag": "v17947067",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 66,
+    "screenshot_path": "precheck-screenshots/citadel/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "FitTrackee",
+    "source": "https://docs.fittrackee.org/",
+    "docker_hub": "fittrackee/fittrackee",
+    "tag": "v1.4.0b2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 67,
+    "screenshot_path": "precheck-screenshots/fittrackee/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "OpenEMR",
+    "source": "https://www.open-emr.org/",
+    "docker_hub": "openemr/openemr",
+    "tag": "flex-3.23",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 68,
+    "screenshot_path": "precheck-screenshots/openemr/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "admidio",
+    "source": "https://www.admidio.org/",
+    "docker_hub": "admidio/admidio",
+    "tag": "v5.0.18",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 69,
+    "screenshot_path": "precheck-screenshots/admidio/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 302; installation page screenshot captured"
+  },
+  {
+    "name": "Domoticz",
+    "source": "https://www.domoticz.com/",
+    "docker_hub": "linuxserver/domoticz",
+    "tag": "2023.2.20231129",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 70,
+    "screenshot_path": "precheck-screenshots/domoticz/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "EMQX",
+    "source": "https://www.emqx.com/",
+    "docker_hub": "emqx/emqx",
+    "tag": "5.10.6-rc.1-elixir",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 71,
+    "screenshot_path": "precheck-screenshots/emqx/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "evcc",
+    "source": "https://evcc.io/",
+    "docker_hub": "evcc/evcc",
+    "tag": "pr-36290",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 72,
+    "screenshot_path": "precheck-screenshots/evcc/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Gladys",
+    "source": "https://gladysassistant.com/",
+    "docker_hub": "gladysassistant/gladys",
+    "tag": "sha-7ce82ef",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 73,
+    "screenshot_path": "precheck-screenshots/gladys/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Onloc",
+    "source": "https://onloc.app",
+    "docker_hub": "calvicii/onloc-ui",
+    "tag": "beta",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 74,
+    "screenshot_path": "precheck-screenshots/onloc/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; login page screenshot captured"
+  },
+  {
+    "name": "Cannery",
+    "source": "https://cannery.app",
+    "docker_hub": "shibaobun/cannery",
+    "tag": "1.5.7",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 75,
+    "screenshot_path": "precheck-screenshots/cannery/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "HomeBox (SysAdminsMedia)",
+    "source": "https://homebox.software/",
+    "docker_hub": "xgheaven/homebox",
+    "tag": "beta",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 76,
+    "screenshot_path": "precheck-screenshots/homeboxsysadminsmedia/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Part-DB",
+    "source": "https://docs.part-db.de/",
+    "docker_hub": "partdborg/part-db",
+    "tag": "new_admin_pages",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 77,
+    "screenshot_path": "precheck-screenshots/partdb/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "memEx",
+    "source": "https://memex-app.shibao.dev",
+    "docker_hub": "shibaobun/memex",
+    "tag": "0.1.40",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 78,
+    "screenshot_path": "precheck-screenshots/memex/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Fluidd",
+    "source": "https://docs.fluidd.xyz/",
+    "docker_hub": "cadriel/fluidd",
+    "tag": "v1.23.3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 79,
+    "screenshot_path": "precheck-screenshots/fluidd/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; Fluidd dashboard screenshot captured"
+  },
+  {
+    "name": "Mainsail",
+    "source": "https://docs.mainsail.xyz/",
+    "docker_hub": "dimalo/mainsail",
+    "tag": "20261115-1927",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 80,
+    "screenshot_path": "precheck-screenshots/mainsail/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Manyfold",
+    "source": "https://manyfold.app",
+    "docker_hub": "linuxserver/manyfold",
+    "tag": "0.154.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 81,
+    "screenshot_path": "precheck-screenshots/manyfold/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Octoprint",
+    "source": "https://octoprint.org/",
+    "docker_hub": "octoprint/octoprint",
+    "tag": "canary",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 82,
+    "screenshot_path": "precheck-screenshots/octoprint/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; OctoPrint UI screenshot captured"
+  },
+  {
+    "name": "AdventureLog",
+    "source": "https://adventurelog.app",
+    "docker_hub": "zipsm15/adventurelog",
+    "tag": "beta",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 83,
+    "screenshot_path": "precheck-screenshots/adventurelog/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "AirTrail",
+    "source": "https://airtrail.johan.ohly.dk",
+    "docker_hub": "johly/airtrail",
+    "tag": "v3.14.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 84,
+    "screenshot_path": "precheck-screenshots/airtrail/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Dawarich",
+    "source": "https://dawarich.app/",
+    "docker_hub": "freikin/dawarich",
+    "tag": "1.23.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 85,
+    "screenshot_path": "precheck-screenshots/dawarich/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "OpenRouteService",
+    "source": "https://openrouteservice.org/",
+    "docker_hub": "openrouteservice/openrouteservice",
+    "tag": "v10.1.0-slim",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 86,
+    "screenshot_path": "precheck-screenshots/openrouteservice/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Deleterr",
+    "source": "https://github.com/rfsbraz/deleterr",
+    "docker_hub": "rfsbraz/deleterr",
+    "tag": "69a4fc1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 87,
+    "screenshot_path": "precheck-screenshots/deleterr/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Lingarr",
+    "source": "https://lingarr.com",
+    "docker_hub": "lingarr/lingarr",
+    "tag": "1.4.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 88,
+    "screenshot_path": "precheck-screenshots/lingarr/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Ratelog",
+    "source": "https://ratelog.org",
+    "docker_hub": "luism2302/ratelog",
+    "tag": "v0.1.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 89,
+    "screenshot_path": "precheck-screenshots/ratelog/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Watcharr",
+    "source": "https://github.com/sbondCo/Watcharr",
+    "docker_hub": "sbondco/watcharr",
+    "tag": "beta",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 90,
+    "screenshot_path": "precheck-screenshots/watcharr/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "AzuraCast",
+    "source": "https://www.azuracast.com/",
+    "docker_hub": "azuracast/azuracast",
+    "tag": "0.24.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 91,
+    "screenshot_path": "precheck-screenshots/azuracast/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "multi-scrobbler",
+    "source": "https://foxxmd.github.io/multi-scrobbler",
+    "docker_hub": "foxxmd/multi-scrobbler",
+    "tag": "pr-782-debug",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 92,
+    "screenshot_path": "precheck-screenshots/multiscrobbler/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Pinepods",
+    "source": "https://www.pinepods.online/",
+    "docker_hub": "madeofpendletonwool/pinepods",
+    "tag": "0.9.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 93,
+    "screenshot_path": "precheck-screenshots/pinepods/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Polaris",
+    "source": "https://github.com/agersant/polaris",
+    "docker_hub": "apache/polaris",
+    "tag": "1.9.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 94,
+    "screenshot_path": "precheck-screenshots/polaris/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Gerbera",
+    "source": "https://gerbera.io/",
+    "docker_hub": "gerbera/gerbera",
+    "tag": "sha-3ac7e28-debug",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 95,
+    "screenshot_path": "precheck-screenshots/gerbera/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Karaoke Eternal",
+    "source": "https://www.karaoke-eternal.com",
+    "docker_hub": "radrootllc/karaoke-eternal",
+    "tag": "2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 96,
+    "screenshot_path": "precheck-screenshots/karaokeeternal/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; Karaoke Eternal UI screenshot captured"
+  },
+  {
+    "name": "MediaMTX",
+    "source": "https://mediamtx.org",
+    "docker_hub": "bluenviron/mediamtx",
+    "tag": "1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 97,
+    "screenshot_path": "precheck-screenshots/mediamtx/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Meelo",
+    "source": "https://github.com/Arthi-chaud/Meelo",
+    "docker_hub": "arthichaud/meelo-front",
+    "tag": "v3.13.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 98,
+    "screenshot_path": "precheck-screenshots/meelo/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; Meelo UI screenshot captured"
+  },
+  {
+    "name": "Stash",
+    "source": "https://stashapp.cc",
+    "docker_hub": "stashapp/stash",
+    "tag": "development",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 99,
+    "screenshot_path": "precheck-screenshots/stash/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Tiramisu",
+    "source": "https://github.com/MrRobotoGit/tiramisu",
+    "docker_hub": "mrrobotogit/tiramisu",
+    "tag": "sha-49533ee6597e3d17b1752aa6ac3d01d0ba4e156d",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 100,
+    "screenshot_path": "precheck-screenshots/tiramisu/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Anubis",
+    "source": "https://anubis.techaro.lol/",
+    "docker_hub": "hiveacademy/anubis",
+    "tag": "1.2.20",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 101,
+    "screenshot_path": "precheck-screenshots/anubis/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "ClipCascade",
+    "source": "https://github.com/Sathvik-Rao/ClipCascade",
+    "docker_hub": "sathvikrao/clipcascade",
+    "tag": "3.5.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64",
+      "ppc64le",
+      "s390x"
+    ],
+    "error": null,
+    "number": 102,
+    "screenshot_path": "precheck-screenshots/clipcascade/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 302; login page screenshot captured"
+  },
+  {
+    "name": "Cloudlog",
+    "source": "https://magicbug.co.uk/cloudlog/",
+    "docker_hub": "2m0sql/cloudlog",
+    "tag": "2.5.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 103,
+    "screenshot_path": "precheck-screenshots/cloudlog/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 302; installation page screenshot captured"
+  },
+  {
+    "name": "Domain Locker",
+    "source": "https://domain-locker.com",
+    "docker_hub": "lissy93/domain-locker",
+    "tag": "0.3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 104,
+    "screenshot_path": "precheck-screenshots/domainlocker/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "F-Droid",
+    "source": "https://f-droid.org",
+    "docker_hub": "sbx/droid",
+    "tag": "1.12.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 105,
+    "screenshot_path": "precheck-screenshots/fdroid/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Garlic-Hub",
+    "source": "https://garlic-signage.com/garlic-hub/",
+    "docker_hub": "sagiadinos/garlic-hub",
+    "tag": "1.2.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 106,
+    "screenshot_path": "precheck-screenshots/garlichub/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "ImgCompress",
+    "source": "https://imgcompress.karimzouine.com",
+    "docker_hub": "karimz1/imgcompress",
+    "tag": "1.1.0-rc.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 107,
+    "screenshot_path": "precheck-screenshots/imgcompress/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; ImgCompress UI screenshot captured"
+  },
+  {
+    "name": "IT-Tools by sharevb",
+    "source": "https://github.com/sharevb/it-tools",
+    "docker_hub": "sharevb/it-tools",
+    "tag": "baseurl-it-tools",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 108,
+    "screenshot_path": "precheck-screenshots/ittoolsbysharevb/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; IT-Tools UI screenshot captured"
+  },
+  {
+    "name": "Jelu",
+    "source": "https://bayang.github.io/jelu-web",
+    "docker_hub": "wabayang/jelu",
+    "tag": "0.88.4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 109,
+    "screenshot_path": "precheck-screenshots/jelu/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "jetlog",
+    "source": "https://github.com/pbogre/jetlog",
+    "docker_hub": "pbogre/jetlog",
+    "tag": "experimental",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 110,
+    "screenshot_path": "precheck-screenshots/jetlog/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Koillection",
+    "source": "https://koillection.github.io/",
+    "docker_hub": "koillection/koillection",
+    "tag": "1.8.6",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 111,
+    "screenshot_path": "precheck-screenshots/koillection/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "LanguageTool",
+    "source": "https://languagetool.org/",
+    "docker_hub": "erikvl87/languagetool",
+    "tag": "6.8",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 112,
+    "screenshot_path": "precheck-screenshots/languagetool/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "LubeLogger",
+    "source": "https://lubelogger.com",
+    "docker_hub": "hargata/lubelogger",
+    "tag": "v1.7.4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 113,
+    "screenshot_path": "precheck-screenshots/lubelogger/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 runtime probe returned HTTP 200; LubeLogger UI screenshot captured"
+  },
+  {
+    "name": "Open-Meteo",
+    "source": "https://open-meteo.com/",
+    "docker_hub": "drmrbrewer/open-meteo",
+    "tag": "v27",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 114,
+    "screenshot_path": "precheck-screenshots/openmeteo/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "OpenReader",
+    "source": "https://docs.openreader.richardr.dev/",
+    "docker_hub": "richardr1126/openreader-webui",
+    "tag": "0.2.2-patch.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 115,
+    "screenshot_path": "precheck-screenshots/openreader/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 3003 returned HTTP 200; OpenReader UI screenshot captured"
+  },
+  {
+    "name": "penpot",
+    "source": "https://penpot.app/",
+    "docker_hub": "webarenapro/penpot",
+    "tag": "path-fix-20261004",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 116,
+    "screenshot_path": "precheck-screenshots/penpot/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Reactive Resume",
+    "source": "https://rxresu.me/",
+    "docker_hub": "amruthpillai/reactive-resume",
+    "tag": "v6.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 117,
+    "screenshot_path": "precheck-screenshots/reactiveresume/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "TeslaMate",
+    "source": "https://github.com/teslamate-org/teslamate",
+    "docker_hub": "teslamate/teslamate",
+    "tag": "4.4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 118,
+    "screenshot_path": "precheck-screenshots/teslamate/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Transmute",
+    "source": "https://transmute.sh",
+    "docker_hub": "neonvariant/transmute",
+    "tag": "v2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 119,
+    "screenshot_path": "precheck-screenshots/transmute/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "URL-to-PNG",
+    "source": "https://github.com/jasonraimondi/url-to-png",
+    "docker_hub": "jasonraimondi/url-to-png",
+    "tag": "v2.1.4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 120,
+    "screenshot_path": "precheck-screenshots/urltopng/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Usertour",
+    "source": "https://www.usertour.io/",
+    "docker_hub": "usertour/usertour",
+    "tag": "0.9.8",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 121,
+    "screenshot_path": "precheck-screenshots/usertour/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Wavelog",
+    "source": "https://www.wavelog.org",
+    "docker_hub": "philipreinken/wavelog",
+    "tag": "2.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 122,
+    "screenshot_path": "precheck-screenshots/wavelog/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 80 returned HTTP 302; Wavelog install UI screenshot captured"
+  },
+  {
+    "name": "WeTTY",
+    "source": "https://butlerx.github.io/wetty/#/",
+    "docker_hub": "wettyoss/wetty",
+    "tag": "sha-1161894",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 123,
+    "screenshot_path": "precheck-screenshots/wetty/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Bitcart",
+    "source": "https://bitcart.ai",
+    "docker_hub": "bitcart/bitcart",
+    "tag": "stable",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 124,
+    "screenshot_path": "precheck-screenshots/bitcart/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Econumo",
+    "source": "https://econumo.com",
+    "docker_hub": "econumo/econumo-ce",
+    "tag": "beta",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 125,
+    "screenshot_path": "precheck-screenshots/econumo/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Expensave",
+    "source": "https://github.com/algirdasc/expensave",
+    "docker_hub": "algirdasc/expensave",
+    "tag": "v1.1.6",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 126,
+    "screenshot_path": "precheck-screenshots/expensave/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "FOSSBilling",
+    "source": "https://fossbilling.org/",
+    "docker_hub": "fossbilling/fossbilling",
+    "tag": "0.8.9",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 127,
+    "screenshot_path": "precheck-screenshots/fossbilling/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 80 returned HTTP 307; FOSSBilling installation UI screenshot captured"
+  },
+  {
+    "name": "Ghostfolio",
+    "source": "https://ghostfol.io/",
+    "docker_hub": "ghostfolio/ghostfolio",
+    "tag": "3.100.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 128,
+    "screenshot_path": "precheck-screenshots/ghostfolio/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "IHateMoney",
+    "source": "https://ihatemoney.org/",
+    "docker_hub": "ihatemoney/ihatemoney",
+    "tag": "7.2.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 129,
+    "screenshot_path": "precheck-screenshots/ihatemoney/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 8000 returned HTTP 200; IHateMoney UI screenshot captured"
+  },
+  {
+    "name": "InvoiceShelf",
+    "source": "https://invoiceshelf.com/",
+    "docker_hub": "invoiceshelf/invoiceshelf",
+    "tag": "next",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 130,
+    "screenshot_path": "precheck-screenshots/invoiceshelf/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 8080 returned HTTP 302; InvoiceShelf UI screenshot captured"
+  },
+  {
+    "name": "Kill Bill",
+    "source": "https://killbill.io/",
+    "docker_hub": "killbill/killbill",
+    "tag": "0.24.22",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 131,
+    "screenshot_path": "precheck-screenshots/killbill/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Lago",
+    "source": "https://www.getlago.com/",
+    "docker_hub": "getlago/lago",
+    "tag": "v1.57.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 132,
+    "screenshot_path": "precheck-screenshots/lago/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 80 returned HTTP 200; Lago UI screenshot captured"
+  },
+  {
+    "name": "OctoBot",
+    "source": "https://www.octobot.cloud/",
+    "docker_hub": "drakkarsoftware/octobot",
+    "tag": "3.0.0-beta3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 133,
+    "screenshot_path": "precheck-screenshots/octobot/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 8000 returned HTTP 307; OctoBot UI screenshot captured"
+  },
+  {
+    "name": "OpenBudgeteer",
+    "source": "https://github.com/TheAxelander/OpenBudgeteer",
+    "docker_hub": "axelander/openbudgeteer",
+    "tag": "pre-release",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 134,
+    "screenshot_path": "precheck-screenshots/openbudgeteer/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "VoucherVault",
+    "source": "https://github.com/l4rm4nd/VoucherVault",
+    "docker_hub": "l4rm4nd/vouchervault",
+    "tag": "1.31.x",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 135,
+    "screenshot_path": "precheck-screenshots/vouchervault/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "WYGIWYH",
+    "source": "https://github.com/eitchtee/WYGIWYH",
+    "docker_hub": "eitchtee/wygiwyh",
+    "tag": "0.27.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 136,
+    "screenshot_path": "precheck-screenshots/wygiwyh/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "NetAlertX",
+    "source": "https://netalertx.com/",
+    "docker_hub": "jokobsk/netalertx",
+    "tag": "26",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 137,
+    "screenshot_path": "precheck-screenshots/netalertx/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Speedtest Tracker",
+    "source": "https://docs.speedtest-tracker.dev/",
+    "docker_hub": "linuxserver/speedtest-tracker",
+    "tag": "1.15.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 138,
+    "screenshot_path": "precheck-screenshots/speedtesttracker/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Upsnap",
+    "source": "https://github.com/seriousm4x/UpSnap",
+    "docker_hub": "seriousm4x/upsnap",
+    "tag": "5.7",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 139,
+    "screenshot_path": "precheck-screenshots/upsnap/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "whois",
+    "source": "https://github.com/KincaidYang/whois",
+    "docker_hub": "jinzeyang/whois",
+    "tag": "v1.6.0",
+    "dual_arch": true,
+    "architectures": [
+      "386",
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 140,
+    "screenshot_path": "precheck-screenshots/whois/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "DailyTxT",
+    "source": "https://github.com/PhiTux/DailyTxT",
+    "docker_hub": "phitux/dailytxt",
+    "tag": "2.6.4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 141,
+    "screenshot_path": "precheck-screenshots/dailytxt/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 80 returned HTTP 200; DailyTxT login UI screenshot captured"
+  },
+  {
+    "name": "Jotty",
+    "source": "https://jotty.page",
+    "docker_hub": "fccview/jotty",
+    "tag": "1.29.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 142,
+    "screenshot_path": "precheck-screenshots/jotty/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 3000 returned HTTP 307; Jotty setup UI screenshot captured"
+  },
+  {
+    "name": "Many Notes",
+    "source": "https://github.com/brufdev/many-notes",
+    "docker_hub": "brufdev/many-notes",
+    "tag": "0.18",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 143,
+    "screenshot_path": "precheck-screenshots/manynotes/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "plumio",
+    "source": "https://plumio.app/",
+    "docker_hub": "idocker1688/plumio",
+    "tag": "lazycat",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 144,
+    "screenshot_path": "precheck-screenshots/plumio/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 80 returned HTTP 200; Plumio UI screenshot captured"
+  },
+  {
+    "name": "AliasVault",
+    "source": "https://www.aliasvault.net",
+    "docker_hub": "aliasvault/aliasvault",
+    "tag": "0.31.3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 145,
+    "screenshot_path": "precheck-screenshots/aliasvault/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 80 returned HTTP 200; AliasVault UI screenshot captured"
+  },
+  {
+    "name": "Passbolt",
+    "source": "https://www.passbolt.com/",
+    "docker_hub": "passbolt/passbolt",
+    "tag": "5.18.0-1-ce",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 146,
+    "screenshot_path": "precheck-screenshots/passbolt/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "ByteStash",
+    "source": "https://github.com/jordan-dalby/ByteStash",
+    "docker_hub": "tushuynh/bytestash",
+    "tag": "stable",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 147,
+    "screenshot_path": "precheck-screenshots/bytestash/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 5000 returned HTTP 200; ByteStash registration UI screenshot captured"
+  },
+  {
+    "name": "Homepage by gethomepage",
+    "source": "https://github.com/gethomepage/homepage",
+    "docker_hub": "gethomepage/homepage",
+    "tag": "feature-arcane-v3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 148,
+    "screenshot_path": "precheck-screenshots/homepagebygethomepage/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "LinkStack",
+    "source": "https://linkstack.org/",
+    "docker_hub": "linkstackorg/linkstack",
+    "tag": "v4.8.8",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 149,
+    "screenshot_path": "precheck-screenshots/linkstack/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 80 returned HTTP 200; LinkStack setup UI screenshot captured"
+  },
+  {
+    "name": "Mafl",
+    "source": "https://mafl.hywax.space/",
+    "docker_hub": "hywax/mafl",
+    "tag": "v0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 150,
+    "screenshot_path": "precheck-screenshots/mafl/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "ryot",
+    "source": "https://github.com/ignisda/ryot",
+    "docker_hub": "ignisda/ryot",
+    "tag": "sha-ce5f2a9",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 151,
+    "screenshot_path": "precheck-screenshots/ryot/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Starbase 80",
+    "source": "https://github.com/notclickable-jordan/starbase-80",
+    "docker_hub": "jordanroher/starbase-80",
+    "tag": "1.6.7",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 152,
+    "screenshot_path": "precheck-screenshots/starbase80/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "ChronoFrame",
+    "source": "https://chronoframe.bh8.ga/",
+    "docker_hub": "hoshinosuzumi/chronoframe",
+    "tag": "1.2.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 153,
+    "screenshot_path": "precheck-screenshots/chronoframe/x86_64/run.png",
+    "screenshot_status": "captured",
+    "runtime_note": "x86_64 targeted probe on port 3000 returned HTTP 302; ChronoFrame onboarding UI screenshot captured"
+  },
+  {
+    "name": "Ente",
+    "source": "https://ente.com/",
+    "docker_hub": "11notes/ente",
+    "tag": "2026.03.23-nobody",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 154,
+    "screenshot_path": "precheck-screenshots/ente/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "HomeGallery",
+    "source": "https://home-gallery.org",
+    "docker_hub": "xemle/home-gallery",
+    "tag": "1.22.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 155,
+    "screenshot_path": "precheck-screenshots/homegallery/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Immich Kiosk",
+    "source": "https://github.com/damongolding/immich-kiosk",
+    "docker_hub": "damongolding/immich-kiosk",
+    "tag": "0.17.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 156,
+    "screenshot_path": "precheck-screenshots/immichkiosk/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "LibrePhotos",
+    "source": "https://github.com/LibrePhotos/librephotos",
+    "docker_hub": "reallibrephotos/librephotos",
+    "tag": "1.6.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 157,
+    "screenshot_path": "precheck-screenshots/librephotos/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Lychee",
+    "source": "https://lycheeorg.github.io/",
+    "docker_hub": "linuxserver/lychee",
+    "tag": "7.13.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 158,
+    "screenshot_path": "precheck-screenshots/lychee/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Memtly",
+    "source": "https://docs.memtly.com/",
+    "docker_hub": "memtly/memtly",
+    "tag": "ce",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 159,
+    "screenshot_path": "precheck-screenshots/memtly/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "docassemble",
+    "source": "https://docassemble.org/",
+    "docker_hub": "jhpyle/docassemble",
+    "tag": "1.10.15",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 160,
+    "screenshot_path": "precheck-screenshots/docassemble/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Fider",
+    "source": "https://fider.io",
+    "docker_hub": "getfider/fider",
+    "tag": "stable",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 161,
+    "screenshot_path": "precheck-screenshots/fider/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "HeyForm",
+    "source": "https://heyform.net",
+    "docker_hub": "crownshy/heyform",
+    "tag": "89f567eb97583c6ec7a82b0e41417d685b1c6586",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 162,
+    "screenshot_path": "precheck-screenshots/heyform/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Mobilizon",
+    "source": "https://mobilizon.org",
+    "docker_hub": "kaihuri/mobilizon",
+    "tag": "5.2.5-RC.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 163,
+    "screenshot_path": "precheck-screenshots/mobilizon/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "imagor",
+    "source": "https://github.com/cshum/imagor",
+    "docker_hub": "shumc/imagor",
+    "tag": "1.10",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 164,
+    "screenshot_path": "precheck-screenshots/imagor/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "imgproxy",
+    "source": "https://imgproxy.net/",
+    "docker_hub": "darthsim/imgproxy",
+    "tag": "v4.0.24",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 165,
+    "screenshot_path": "precheck-screenshots/imgproxy/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "sish",
+    "source": "https://github.com/antoniomika/sish",
+    "docker_hub": "antoniomika/sish",
+    "tag": "32b7d07e5641e5ffda4dacb5e6adde462febb8be",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 166,
+    "screenshot_path": "precheck-screenshots/sish/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "socks5-proxy-server",
+    "source": "https://github.com/nskondratev/socks5-proxy-server",
+    "docker_hub": "kamuri/socks5-proxy-server",
+    "tag": "0.0.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 167,
+    "screenshot_path": "precheck-screenshots/socks5proxyserver/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Fork Recipes",
+    "source": "https://mikebgrep.github.io/forkapi/latest/clients/",
+    "docker_hub": "vabene1111/recipes",
+    "tag": "2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 168,
+    "screenshot_path": "precheck-screenshots/forkrecipes/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Recipya",
+    "source": "https://recipes.musicavis.ca",
+    "docker_hub": "reaper99/recipya",
+    "tag": "v1.2.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 169,
+    "screenshot_path": "precheck-screenshots/recipya/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Tamari",
+    "source": "https://tamariapp.com",
+    "docker_hub": "alexbates/tamari",
+    "tag": "1.7.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 170,
+    "screenshot_path": "precheck-screenshots/tamari/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Vanilla Cookbook",
+    "source": "https://vanilla-cookbook.readthedocs.io/en/",
+    "docker_hub": "jt196/vanilla-cookbook",
+    "tag": "stable",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 171,
+    "screenshot_path": "precheck-screenshots/vanillacookbook/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Cardea",
+    "source": "https://github.com/hectorm/cardea",
+    "docker_hub": "hectorm/cardea",
+    "tag": "v1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64",
+      "loong64",
+      "ppc64le",
+      "riscv64",
+      "s390x"
+    ],
+    "error": null,
+    "number": 172,
+    "screenshot_path": "precheck-screenshots/cardea/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Firezone",
+    "source": "https://www.firezone.dev/",
+    "docker_hub": "firezone/firezone",
+    "tag": "0.7.36",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 173,
+    "screenshot_path": "precheck-screenshots/firezone/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Sshwifty",
+    "source": "https://github.com/nirui/sshwifty",
+    "docker_hub": "niruix/sshwifty",
+    "tag": "0.4.12-beta-release",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 174,
+    "screenshot_path": "precheck-screenshots/sshwifty/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Termix",
+    "source": "https://docs.termix.site/",
+    "docker_hub": "bugattiguy527/termix",
+    "tag": "26.11.2-beta.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 175,
+    "screenshot_path": "precheck-screenshots/termix/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Warpgate",
+    "source": "https://github.com/warp-tech/warpgate",
+    "docker_hub": "mezusphere/warpgate",
+    "tag": "3e2540c",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 176,
+    "screenshot_path": "precheck-screenshots/warpgate/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "ERPNext",
+    "source": "https://frappe.io/erpnext",
+    "docker_hub": "frappe/erpnext",
+    "tag": "version-16",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 177,
+    "screenshot_path": "precheck-screenshots/erpnext/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "farmOS",
+    "source": "https://farmos.org/",
+    "docker_hub": "farmos/farmos",
+    "tag": "4.x",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 178,
+    "screenshot_path": "precheck-screenshots/farmos/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "LedgerSMB",
+    "source": "https://ledgersmb.org/",
+    "docker_hub": "ledgersmb/ledgersmb",
+    "tag": "1.13.9",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 179,
+    "screenshot_path": "precheck-screenshots/ledgersmb/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "NextCloudPi",
+    "source": "https://github.com/nextcloud/nextcloudpi",
+    "docker_hub": "ownyourbits/nextcloudpi",
+    "tag": "v1.51.6",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 180,
+    "screenshot_path": "precheck-screenshots/nextcloudpi/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Aastro",
+    "source": "https://voidrunner3074.github.io/aastro-docs",
+    "docker_hub": "starwalkn/aastro",
+    "tag": "0.11.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 181,
+    "screenshot_path": "precheck-screenshots/aastro/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Featbit",
+    "source": "https://www.featbit.co/",
+    "docker_hub": "featbit/featbit-api-server",
+    "tag": "6.1.1",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 182,
+    "screenshot_path": "precheck-screenshots/featbit/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Flagsmith",
+    "source": "https://flagsmith.com",
+    "docker_hub": "flagsmith/flagsmith",
+    "tag": "2.291",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 183,
+    "screenshot_path": "precheck-screenshots/flagsmith/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Flipt",
+    "source": "https://flipt.io",
+    "docker_hub": "markphelps/flipt",
+    "tag": "v1.62.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 184,
+    "screenshot_path": "precheck-screenshots/flipt/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Langfuse",
+    "source": "https://langfuse.com",
+    "docker_hub": "langfuse/langfuse",
+    "tag": "4.80",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 185,
+    "screenshot_path": "precheck-screenshots/langfuse/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Lowdefy",
+    "source": "https://www.lowdefy.com/",
+    "docker_hub": "lowdefy/lowdefy",
+    "tag": "3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 186,
+    "screenshot_path": "precheck-screenshots/lowdefy/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Tolgee",
+    "source": "https://tolgee.io",
+    "docker_hub": "tolgee/tolgee",
+    "tag": "v3.242.7",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 187,
+    "screenshot_path": "precheck-screenshots/tolgee/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Weblate",
+    "source": "https://weblate.org",
+    "docker_hub": "weblate/weblate",
+    "tag": "bleeding-2026-11-15-ecc00b2e9f0aa701869ebf8d915705e686a06614",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 188,
+    "screenshot_path": "precheck-screenshots/weblate/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Halo",
+    "source": "https://www.halo.run",
+    "docker_hub": "halohub/halo",
+    "tag": "sha-736beca",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64",
+      "ppc64le",
+      "s390x"
+    ],
+    "error": null,
+    "number": 189,
+    "screenshot_path": "precheck-screenshots/halo/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "TrailBase",
+    "source": "https://trailbase.io/",
+    "docker_hub": "trailbase/trailbase",
+    "tag": "0.35.12",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 190,
+    "screenshot_path": "precheck-screenshots/trailbase/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Gerrit",
+    "source": "https://www.gerritcodereview.com/",
+    "docker_hub": "gerritcodereview/gerrit",
+    "tag": "3.15.0-ubuntu26",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 191,
+    "screenshot_path": "precheck-screenshots/gerrit/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Plane",
+    "source": "https://plane.so",
+    "docker_hub": "plane/plane",
+    "tag": "sha-abca802",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 192,
+    "screenshot_path": "precheck-screenshots/plane/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "SCM Manager",
+    "source": "https://www.scm-manager.org/",
+    "docker_hub": "kasmweb/manager",
+    "tag": "1.19.0-rolling-2026-11-12",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 193,
+    "screenshot_path": "precheck-screenshots/scmmanager/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Titra",
+    "source": "https://titra.io/",
+    "docker_hub": "kromit/titra",
+    "tag": "v1.2.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "error": null,
+    "number": 194,
+    "screenshot_path": "precheck-screenshots/titra/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Donetick",
+    "source": "https://donetick.com",
+    "docker_hub": "donetick/donetick",
+    "tag": "beta",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 195,
+    "screenshot_path": "precheck-screenshots/donetick/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Kept Notes",
+    "source": "https://keepitkept.xyz",
+    "docker_hub": "triliumnext/notes",
+    "tag": "stable",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm",
+      "arm64"
+    ],
+    "error": null,
+    "number": 196,
+    "screenshot_path": "precheck-screenshots/keptnotes/x86_64/run.png",
+    "screenshot_status": "pending"
+  },
+  {
+    "name": "Bichon",
+    "source": "https://github.com/rustmailer/bichon",
+    "docker_hub": "rustmailer/bichon",
+    "tag": "2.4.2",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "screenshot_path": "precheck-screenshots/bichon-tnas/x86_64/run.png",
+    "screenshot_status": "captured",
+    "number": 197
+  },
+  {
+    "name": "Gokapi",
+    "source": "https://github.com/Forceu/Gokapi",
+    "docker_hub": "f0rc3/gokapi",
+    "tag": "v2.2.4",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "screenshot_path": "precheck-screenshots/gokapi-tnas/x86_64/run.png",
+    "screenshot_status": "captured",
+    "number": 198
+  },
+  {
+    "name": "NeonLink",
+    "source": "https://github.com/AlexSciFier/neonlink",
+    "docker_hub": "alexscifier/neonlink",
+    "tag": "v1.5.0",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "screenshot_path": "precheck-screenshots/neonlink-tnas/x86_64/run.png",
+    "screenshot_status": "captured",
+    "number": 199
+  },
+  {
+    "name": "Plik",
+    "source": "https://github.com/root-gg/plik",
+    "docker_hub": "rootgg/plik",
+    "tag": "1.4.3",
+    "dual_arch": true,
+    "architectures": [
+      "amd64",
+      "arm64"
+    ],
+    "screenshot_path": "precheck-screenshots/plik-tnas/x86_64/run.png",
+    "screenshot_status": "captured",
+    "number": 200
+  }
+]
